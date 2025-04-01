@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="example.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sqlist.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="homework1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="homework2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="homework3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="homework4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="homework5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="homework6.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="experiment01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="experient02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pi.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pireference.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="experiment001.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stackHW01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stackHW02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stackHW03.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stackHW04.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stackHW05.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stackHW06.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="experiment002.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stringHW01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stringHW02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stringHW03.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stringHW04.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stringHW05.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stringHW06.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stringHW07.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stringHW08.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="experiment003.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="experiment004.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="experiment005.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="experiment006.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="arrayHW01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="arrayHW02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="arrayHW03.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="arrayHW04.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="arrayHW05.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="recursion01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="recursion02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="recursion03.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="recursion04.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="recursion05.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="recursion06.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="recursion07.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="recursion08.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="recursion09.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="binarytree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="btree.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="experiment007_draft.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TreeHW01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TreeHW02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TreeHW03.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TreeHW04.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TreeHW05.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TreeHW06.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TreeHW07.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TreeHW08.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="experiment007.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AdjGraph.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="bakctrack.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="graphHW01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="graphHW02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MatGraph.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="graphHW03.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="graphHW04.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="graphHW05.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="graphHW08.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="graphHW07.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="graphHW06.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="graphHW09.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="graphHW10.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="graphHW11.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="graphHW12.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BSTree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AVLTree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="experiment008.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="experiment009.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="experiment010.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="experiment011_org.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="experiment011.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="searchHW01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="searchHW02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="searchHW03.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="searchHW04.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="searchHW05.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="searchHW06.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="searchHW07.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="searchHW08.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="searchHW09.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="searchHW10.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="clockman.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sortHW01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sortHW02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sortHW03.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sortHW04.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sortHW05.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sortHW06.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sortHW07.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sortHW08.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sortHW09.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sortHW010.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="soul.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="D.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="E.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="F.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="J.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="B.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="powerful.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
